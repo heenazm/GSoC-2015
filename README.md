@@ -1,16 +1,17 @@
-# KnowledgeBasedAI-Chat-AliceBot
-AliceBot is a Knowledge base chatbot that gives a output based on user's input by making use of the knowledge it has. 
+# Vagrant
+Vagrant provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.
 
-It makes use of random function, rand() and structure to define the knowledge for chatbot. 
+# Instructions 
 
-Alice is the name of the chatbot. 
+# To start
 
-It makes use of STL
+vagrant up
 
-# Compilers 
+vagrant ssh
 
-It is a c++ program so compilers such as gcc, codeblocks etc are fine
+# To close the virtual connection 
 
+exit 
 
 # Feel free to fork it and send pull requests !
 
